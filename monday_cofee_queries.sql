@@ -1,4 +1,4 @@
--- Follow images attached for more understanding of business problems and questions of MONDAY COFFEE
+-- Follow images attached for more understanding of business problems and questions of MONDAY COFFEE EXPANSION
 
 -- How many people in each city are estimated to consume coffee given that 25% of population does
 -- Coffee consumer count
