@@ -1,0 +1,10 @@
+## About Dataset (Overview)
+
+The dataset consists of four tables:
+
+1. **City Data (`city.csv`)** – Contains information about different cities where online coffee sales have been recorded.  
+2. **Customers Data (`customers.csv`)** – Includes details about customers such as their location and purchase history.  
+3. **Products Data (`products.csv`)** – Lists various coffee products sold by Monday Coffee, including pricing and category information.  
+4. **Sales Data (`sales.csv`)** – Represents transactional data, linking customers, products, and cities to analyze purchasing patterns.  
+
+This dataset is used to determine the top three cities for expansion based on sales trends and customer behavior.
