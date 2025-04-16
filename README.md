@@ -1,6 +1,6 @@
 # Monday Coffee Expansion Analysis and Business Intelligence using SQL and Power BI🚀
 
-The Monday Coffee Expansion Analysis project utilizes SQL to analyze sales data and identify the top three cities in India for opening new coffee shop locations. By leveraging database queries, the project provides data-driven insights to support business expansion decisions. This analysis helps increase profitability for Monday Coffee. 
+The Monday Coffee Expansion Analysis project utilizes SQL and Power BI to analyze sales data and identify the top three cities in India for opening new coffee shop locations. By leveraging database queries, the project provides data-driven insights to support business expansion decisions. This analysis helps increase profitability for Monday Coffee. 
 
 ## Objectives
 
@@ -12,6 +12,7 @@ The Monday Coffee Expansion Analysis project utilizes SQL to analyze sales data 
 ## Tech Stack
 - Database: PostgreSQL
 - Query Language: SQL
+- Data Transformation and Visualization : Power Query and Power BI
 
 ## Project Files
 
