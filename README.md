@@ -46,6 +46,8 @@ The Monday Coffee Expansion Analysis project utilizes SQL and Power BI to analyz
 
 - Analyze the output and derive recommendations for expansion.
 
+- Run Power BI Dashboard file to check out the dashboard and find out insights
+
  ## Contribution
 
 If you want to contribute to this project, feel free to fork the repository, add your insights, and submit a pull request!
